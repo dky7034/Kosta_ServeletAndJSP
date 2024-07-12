@@ -262,4 +262,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,java,eclipse,intellij+iml,maven,dbeaver
+=======
+# End of https://www.toptal.com/developers/gitignore/api/macos,windows,java,eclipse,intellij+iml,maven,dbeaver
+>>>>>>> 9f14df4b231c95fc27f32849e78639cd7f465d35
